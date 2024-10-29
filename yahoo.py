@@ -4,8 +4,8 @@ import os
 
 # Define the stock ticker and date range
 ticker = "TSLA"
-start_date = "2022-07-04"
-end_date = "2022-07-15"
+start_date = "2022-07-03"
+end_date = "2022-07-16"
 
 # File path
 file_path = "TSLA_stock_data.csv"
