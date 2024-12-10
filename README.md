@@ -3,6 +3,8 @@
 
 This project explores the correlation between Twitter sentiments about Tesla (TSLA) and its corresponding stock performance during a single day: July 11, 2022. Using sentiment analysis tools and statistical methods, we analyze the potential influence of social media sentiments on stock returns.
 
+This code should take roughly 10 minutes to run, due to BERT.
+
 ---
 
 ## Project Overview
